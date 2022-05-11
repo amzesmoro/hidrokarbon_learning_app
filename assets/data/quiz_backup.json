@@ -1,0 +1,282 @@
+[
+  {
+      "number": 1,
+      "question": "Di antara senyawa berikut yang merupakan senyawa karbon organik adalah . . .",
+      "has_question_image": false,
+      "question_image_url": "",
+      "answers": [
+          "H2SO4",
+          "H2O",
+          "CH4",
+          "H2CO3",
+          "H3PO4"
+      ],
+      "correct_answer_index": 2
+  },
+  {
+      "number": 2,
+      "question": "Kekhasan atom karbon yang menyebabkan unsur karbon mempunyai banyak ragam senyawa adalah . . .",
+      "has_question_image": false,
+      "question_image_url": "",
+      "answers": [
+          "memiliki 4 elektron valensi yang dapat digunakan untuk membentuk ikatan kovalen",
+          "memiliki 4 elektron valensi yang dapat digunakan untuk transfer elektron",
+          "memiliki konfigurasi elektron yang stabil seperti gas mulia",
+          "membentuk rantai karbon dengan berbagai bentuk",
+          "berwujud padat pada suhu kamar"
+      ],
+      "correct_answer_index": 0
+  },
+  {
+      "number": 3,
+      "question": "Perhatikan stuktur senyawa hidrokarbon dibawah ini:\nAtom karbon primer, sekunder,tersier,kuarterner secara berurutan terletak pada nomor . . .",
+      "has_question_image": true,
+      "question_image_url": "assets/quiz_images/soal_3.png",
+      "answers": [
+          "1, 2, 3, 5",
+          "1, 2, 4, 5",
+          "1, 2, 5, 3",
+          "5, 3, 2, 1",
+          "5, 6, 7, 8"
+      ],
+      "correct_answer_index": 2
+  },
+  {
+      "number": 4,
+      "question": "Berdasarkan strukturnya, senyawa dibawah ini yang mengandung atom karbon tersier yaitu pada atom C nomor . . .",
+      "has_question_image": true,
+      "question_image_url": "assets/quiz_images/soal_4.png",
+      "answers": [
+          "3",
+          "4",
+          "5",
+          "2",
+          "6"
+      ],
+      "correct_answer_index": 2
+  },
+  {
+      "number": 5,
+      "question": "Contoh pasangan senyawa berikut yang tergolong senyawa hidrokarbon adalah . . .",
+      "has_question_image": false,
+      "question_image_url": "",
+      "answers": [
+          "C2H5OH dan H2SO4",
+          "CH3COOH dan HCl",
+          "NaOH dan H2O",
+          "C4H10 dan C6H6",
+          "HClO3 dan C6H12O6"
+      ],
+      "correct_answer_index": 3
+  },
+  {
+      "number": 6,
+      "question": "Deret homolog alkana mempunyai rumus umum . . .",
+      "has_question_image": false,
+      "question_image_url": "",
+      "answers": [
+          "CnH2n+2",
+          "CnH2n-2",
+          "CnH2n+1",
+          "CnH2n-1",
+          "CnH2n"
+      ],
+      "correct_answer_index": 0
+  },
+  {
+      "number": 7,
+      "question": "Senyawa hidrokarbon berikut yang mempunyai 6 atom karbon adalah . . .",
+      "has_question_image": false,
+      "question_image_url": "",
+      "answers": [
+          "3,3-dimetilpentana",
+          "n-heptana",
+          "3-metilheksana",
+          "2,3-dimetilbutana",
+          "2,3-dimetilpentana"
+      ],
+      "correct_answer_index": 3
+  },
+  {
+      "number": 8,
+      "question": "Nama senyawa dengan struktur dibawah ini adalah . . .",
+      "has_question_image": true,
+      "question_image_url": "assets/quiz_images/soal_8.png",
+      "answers": [
+          "2-etil-3,5-dimetilheksana",
+          "2,5-dimetil-3-etilheksana",
+          "3-etil-2,5-dimetilheksana",
+          "4-etil-3,5-dimetilheksana",
+          "2,5-dimetil-4-etilheksana"
+      ],
+      "correct_answer_index": 2
+  },
+  {
+      "number": 9,
+      "question": "Penamaan alkana berikut yang tidak tepat adalah . . .",
+      "has_question_image": false,
+      "question_image_url": "",
+      "answers": [
+          "2-metilbutana",
+          "2-etilpentana",
+          "2,4-dimetilpentana",
+          "2,2,3-trimetilbutana",
+          "5-etil-2-metilheksana"
+      ],
+      "correct_answer_index": 4
+  },
+  {
+      "number": 10,
+      "question": "Perhatikan struktur senyawa hidrokarbon dibawah ini:\nNama senyawa hidrokarbon dibawah adalah . . .",
+      "has_question_image": true,
+      "question_image_url": "assets/quiz_images/soal_10.png",
+      "answers": [
+          "2-butena",
+          "trans-2-butana",
+          "trans-2-butena",
+          "cis-2-butana",
+          "cis -2-butena"
+      ],
+      "correct_answer_index": 2
+  },
+  {
+      "number": 11,
+      "question": "Penamaan alkuna berikut ini yang paling tepat adalah . . .",
+      "has_question_image": false,
+      "question_image_url": "",
+      "answers": [
+          "4-isopropil-2-pentuna",
+          "4,5-dimetil-2-heksuna",
+          "4,5-trimetil-2-pentuna",
+          "2,3-isopropil-3-pentuna",
+          "2,3-trimetil-4-heksuna"
+      ],
+      "correct_answer_index": 1
+  },
+  {
+      "number": 12,
+      "question": "Perhatikan struktur hidrokarbon dibawah ini:\nNama dari senyawa tersebut adalah . . .",
+      "has_question_image": true,
+      "question_image_url": "assets/quiz_images/soal_12.png",
+      "answers": [
+          "2-metil-2-metil-3-heptuna",
+          "2,2-dimetil-3-heptuna",
+          "2,2-dimetil-4-heptuna",
+          "6,6-dimetil-4-heptuna",
+          "6,6-dimetil-5-heptuna"
+      ],
+      "correct_answer_index": 1
+  },
+  {
+      "number": 13,
+      "question": "Jumlah isomer alkana dengan rumus C4H10 adalah . . .",
+      "has_question_image": false,
+      "question_image_url": "",
+      "answers": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+      ],
+      "correct_answer_index": 0
+  },
+  {
+      "number": 14,
+      "question": "Di antara senyawa berikut yang merupakan isomer dari heksana adalah . . .",
+      "has_question_image": false,
+      "question_image_url": "",
+      "answers": [
+          "2-metilbutana",
+          "3-metilheksana",
+          "2,2-dimetilpropana",
+          "2,2-dimetilbutana",
+          "2,2,3-trimetilbutana"
+      ],
+      "correct_answer_index": 3
+  },
+  {
+      "number": 15,
+      "question": "Senyawa di bawah ini yang berwujud gas pada suhu kamar adalah . . .",
+      "has_question_image": false,
+      "question_image_url": "",
+      "answers": [
+          "n-butana",
+          "n-pentana",
+          "n-heksana",
+          "n-heptana",
+          "n-oktana"
+      ],
+      "correct_answer_index": 0
+  },
+  {
+      "number": 16,
+      "question": "Di antara senyawa hidrokarbon berikut yang titik didihnya paling rendah adalah . . .",
+      "has_question_image": false,
+      "question_image_url": "",
+      "answers": [
+          "n-heptana",
+          "2-metilpentana",
+          "2,3-dimetilpentana",
+          "n-oktana",
+          "2,3,3-trimetilbutana"
+      ],
+      "correct_answer_index": 4
+  },
+  {
+      "number": 17,
+      "question": "Perhatikan reaksi berikut:\nNReaksi senyawa hidrokarbon dibawah ini merupakan reaksi . . .",
+      "has_question_image": true,
+      "question_image_url": "assets/quiz_images/soal_17.png",
+      "answers": [
+          "substitusi",
+          "eliminasi",
+          "oksidasi",
+          "adisi",
+          "polimerisasi"
+      ],
+      "correct_answer_index": 1
+  },
+  {
+      "number": 18,
+      "question": "Reaksi pertukaran atom H dengan atom lain disebut reaksi . . .",
+      "has_question_image": false,
+      "question_image_url": "",
+      "answers": [
+          "eliminasi",
+          "substitusi",
+          "adisi",
+          "oksidasi",
+          "reduksi"
+      ],
+      "correct_answer_index": 1
+  },
+  {
+      "number": 19,
+      "question": "Senyawa alkena yang digunakan untuk memasakkan buah-buahan secara buatan adalah . . .",
+      "has_question_image": false,
+      "question_image_url": "",
+      "answers": [
+          "etilena",
+          "propena",
+          "propena",
+          "pentuna",
+          "gliserin"
+      ],
+      "correct_answer_index": 0
+  },
+  {
+      "number": 20,
+      "question": "Senyawa hidrokarbon yang biasanya digunakan para dokter dibidang kesehatan untuk membius adalah obat anestesi. Senyawa tersebut adalah . . .",
+      "has_question_image": false,
+      "question_image_url": "",
+      "answers": [
+          "polietena",
+          "asetilena",
+          "freon",
+          "halothane",
+          "isoprena"
+      ],
+      "correct_answer_index": 3
+  }
+]
